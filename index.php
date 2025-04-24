@@ -1,5 +1,2 @@
 <?php
-
-    echo 'asd';
-
     phpinfo();
